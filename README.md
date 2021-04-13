@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/MiteyD/MiteyD/blob/main/wave.gif" width="30px">, I'm Derick</h1>
-<h3 align="center">A man of culture. It has been remarked upon <img src="https://github.com/MiteyD/MiteyD/blob/main/smirk.gif" width="30px"></h3>
+<h3 align="center">A man of culture. It has been remarked upon <img src="https://github.com/MiteyD/MiteyD/blob/main/smirk.gif" width="40px"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miteyd&label=Profile%20views&color=0e75b6&style=flat" alt="miteyd" /> </p>
 
