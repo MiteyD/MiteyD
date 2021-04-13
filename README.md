@@ -1,4 +1,4 @@
-# Howdy! <img src="https://raw.githubusercontent.com/MityeD/MiteyD/master/wave.gif" width="30px">
+# Howdy! <img src="https://github.com/MiteyD/MiteyD/blob/main/wave.gif" width="30px">
 
 <h1 align="center">Hi 👋, I'm Derick</h1>
 <h3 align="center">A man of culture. It has been remarked upon 😏</h3>
