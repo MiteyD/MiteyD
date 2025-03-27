@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miteyd&label=Profile%20views&color=0e75b6&style=flat" alt="miteyd" /> </p>
 
 
-#<p align="left"> <a href="https://twitter.com/derrickphares" target="blank"><img src="https://img.shields.io/twitter/follow/derrickphares?logo=twitter&style=for-the-badge" alt="derrickphares" /></a> </p>
+<p align="left"> <a href="https://twitter.com/derrickphares" target="blank"><img src="https://img.shields.io/twitter/follow/derrickphares?logo=twitter&style=for-the-badge" alt="derrickphares" /></a> </p>
 
 - 🌱 I’m currently learning **MLOps(Machine Learning Operations) by Google Cloud. MLOps is a discipline focused on the deployment, testing, monitoring, and automation of ML systems in production.**
 
